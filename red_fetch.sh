@@ -1,5 +1,6 @@
 #!/bin/bash
- 
+
+#RRD this is an index inside stor2rrd database, can be retrieved from /stor2rrd/data/${STORAGE}/pools.cfg
 RRD=$1
 POOL=$2
 STORAGE=$3

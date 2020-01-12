@@ -1,5 +1,6 @@
 #!/usr/bin/env python
- 
+
+# this python script creates a readable data for elasticsearch, from differential files which are created by rrd_fetch.sh
 from datetime import datetime
 import sys
  

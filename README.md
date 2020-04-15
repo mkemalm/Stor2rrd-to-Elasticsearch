@@ -9,4 +9,4 @@
   * * * * * collect_data.sh
 ```
 
-4. This will create *allpools.log* inside your ELK folder. Use filebeat or something to forward it to your logstash.
+4. This will create *allpools.log* inside your stor2rrd_install_path/ELK folder. Use filebeat or something to forward it to your logstash.
